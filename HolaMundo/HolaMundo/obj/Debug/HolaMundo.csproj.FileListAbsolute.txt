@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\cursoCSharp\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe.config
+C:\Users\Usuario\source\repos\cursoCSharp\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe
+C:\Users\Usuario\source\repos\cursoCSharp\HolaMundo\HolaMundo\bin\Debug\HolaMundo.pdb
+C:\Users\Usuario\source\repos\cursoCSharp\HolaMundo\HolaMundo\obj\Debug\HolaMundo.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\cursoCSharp\HolaMundo\HolaMundo\obj\Debug\HolaMundo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\cursoCSharp\HolaMundo\HolaMundo\obj\Debug\HolaMundo.exe
+C:\Users\Usuario\source\repos\cursoCSharp\HolaMundo\HolaMundo\obj\Debug\HolaMundo.pdb
