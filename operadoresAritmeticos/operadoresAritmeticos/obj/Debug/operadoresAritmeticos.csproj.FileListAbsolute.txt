@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\cursoCSharp\operadoresAritmeticos\operadoresAritmeticos\bin\Debug\operadoresAritmeticos.exe.config
+C:\Users\Usuario\source\repos\cursoCSharp\operadoresAritmeticos\operadoresAritmeticos\bin\Debug\operadoresAritmeticos.exe
+C:\Users\Usuario\source\repos\cursoCSharp\operadoresAritmeticos\operadoresAritmeticos\bin\Debug\operadoresAritmeticos.pdb
+C:\Users\Usuario\source\repos\cursoCSharp\operadoresAritmeticos\operadoresAritmeticos\obj\Debug\operadoresAritmeticos.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\cursoCSharp\operadoresAritmeticos\operadoresAritmeticos\obj\Debug\operadoresAritmeticos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\cursoCSharp\operadoresAritmeticos\operadoresAritmeticos\obj\Debug\operadoresAritmeticos.exe
+C:\Users\Usuario\source\repos\cursoCSharp\operadoresAritmeticos\operadoresAritmeticos\obj\Debug\operadoresAritmeticos.pdb
