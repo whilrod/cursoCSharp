@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\cursoCSharp\OperadoresDeAsignacion\OperadoresDeAsignacion\bin\Debug\OperadoresDeAsignacion.exe.config
+C:\Users\Usuario\source\repos\cursoCSharp\OperadoresDeAsignacion\OperadoresDeAsignacion\bin\Debug\OperadoresDeAsignacion.exe
+C:\Users\Usuario\source\repos\cursoCSharp\OperadoresDeAsignacion\OperadoresDeAsignacion\bin\Debug\OperadoresDeAsignacion.pdb
+C:\Users\Usuario\source\repos\cursoCSharp\OperadoresDeAsignacion\OperadoresDeAsignacion\obj\Debug\OperadoresDeAsignacion.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\cursoCSharp\OperadoresDeAsignacion\OperadoresDeAsignacion\obj\Debug\OperadoresDeAsignacion.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\cursoCSharp\OperadoresDeAsignacion\OperadoresDeAsignacion\obj\Debug\OperadoresDeAsignacion.exe
+C:\Users\Usuario\source\repos\cursoCSharp\OperadoresDeAsignacion\OperadoresDeAsignacion\obj\Debug\OperadoresDeAsignacion.pdb
