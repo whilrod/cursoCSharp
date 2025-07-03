@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\cursoCSharp\Constantes\Constantes\bin\Debug\Constantes.exe.config
+C:\Users\Usuario\source\repos\cursoCSharp\Constantes\Constantes\bin\Debug\Constantes.exe
+C:\Users\Usuario\source\repos\cursoCSharp\Constantes\Constantes\bin\Debug\Constantes.pdb
+C:\Users\Usuario\source\repos\cursoCSharp\Constantes\Constantes\obj\Debug\Constantes.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\cursoCSharp\Constantes\Constantes\obj\Debug\Constantes.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\cursoCSharp\Constantes\Constantes\obj\Debug\Constantes.exe
+C:\Users\Usuario\source\repos\cursoCSharp\Constantes\Constantes\obj\Debug\Constantes.pdb
