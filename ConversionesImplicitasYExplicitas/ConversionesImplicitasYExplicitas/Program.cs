@@ -12,12 +12,12 @@ namespace ConversionesImplicitasYExplicitas
         {
             // Conversion Implicita
             double numero = 10;
-            Console.WriteLine(numero);
+            Console.WriteLine(numero); // 10
 
             // Conversion Explicita
             int valor = (int)4.5;
-            Console.WriteLine(valor);
-            Console.WriteLine(valor);
+            Console.WriteLine(valor); // 4 se pierde la parte decimal
+            
         }
     }
 }
