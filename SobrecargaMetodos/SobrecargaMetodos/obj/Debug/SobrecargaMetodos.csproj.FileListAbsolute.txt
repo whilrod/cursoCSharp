@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\cursoCSharp\SobrecargaMetodos\SobrecargaMetodos\bin\Debug\SobrecargaMetodos.exe.config
+C:\Users\Usuario\source\repos\cursoCSharp\SobrecargaMetodos\SobrecargaMetodos\bin\Debug\SobrecargaMetodos.exe
+C:\Users\Usuario\source\repos\cursoCSharp\SobrecargaMetodos\SobrecargaMetodos\bin\Debug\SobrecargaMetodos.pdb
+C:\Users\Usuario\source\repos\cursoCSharp\SobrecargaMetodos\SobrecargaMetodos\obj\Debug\SobrecargaMetodos.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\cursoCSharp\SobrecargaMetodos\SobrecargaMetodos\obj\Debug\SobrecargaMetodos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\cursoCSharp\SobrecargaMetodos\SobrecargaMetodos\obj\Debug\SobrecargaMetodos.exe
+C:\Users\Usuario\source\repos\cursoCSharp\SobrecargaMetodos\SobrecargaMetodos\obj\Debug\SobrecargaMetodos.pdb
