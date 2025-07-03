@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\cursoCSharp\ConversionDeTextoANumero\ConversionDeTextoANumero\bin\Debug\ConversionDeTextoANumero.exe.config
+C:\Users\Usuario\source\repos\cursoCSharp\ConversionDeTextoANumero\ConversionDeTextoANumero\bin\Debug\ConversionDeTextoANumero.exe
+C:\Users\Usuario\source\repos\cursoCSharp\ConversionDeTextoANumero\ConversionDeTextoANumero\bin\Debug\ConversionDeTextoANumero.pdb
+C:\Users\Usuario\source\repos\cursoCSharp\ConversionDeTextoANumero\ConversionDeTextoANumero\obj\Debug\ConversionDeTextoANumero.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\cursoCSharp\ConversionDeTextoANumero\ConversionDeTextoANumero\obj\Debug\ConversionDeTextoANumero.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\cursoCSharp\ConversionDeTextoANumero\ConversionDeTextoANumero\obj\Debug\ConversionDeTextoANumero.exe
+C:\Users\Usuario\source\repos\cursoCSharp\ConversionDeTextoANumero\ConversionDeTextoANumero\obj\Debug\ConversionDeTextoANumero.pdb
