@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\cursoCSharp\BucleWhile\BucleWhile\bin\Debug\BucleWhile.exe.config
+C:\Users\Usuario\source\repos\cursoCSharp\BucleWhile\BucleWhile\bin\Debug\BucleWhile.exe
+C:\Users\Usuario\source\repos\cursoCSharp\BucleWhile\BucleWhile\bin\Debug\BucleWhile.pdb
+C:\Users\Usuario\source\repos\cursoCSharp\BucleWhile\BucleWhile\obj\Debug\BucleWhile.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\cursoCSharp\BucleWhile\BucleWhile\obj\Debug\BucleWhile.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\cursoCSharp\BucleWhile\BucleWhile\obj\Debug\BucleWhile.exe
+C:\Users\Usuario\source\repos\cursoCSharp\BucleWhile\BucleWhile\obj\Debug\BucleWhile.pdb
